@@ -1,4 +1,4 @@
-# Sistema Verdes Mares: teste prático para Frontend Develop
+# Sistema Verdes Mares: teste prático para Frontend develop
 
 Olá e bem-vindo ao desafio de Frontend para o desenvolvimento do nosso novo produto de notícias! Neste teste, você terá a oportunidade de demonstrar suas habilidades e criatividade na construção de uma aplicação web que proporcionará uma experiência de leitura de notícias fluida e envolvente.
 
@@ -15,17 +15,16 @@ Além da listagem, devemos ter um campo de busca no centro da tela, que ao ser a
 2. Utilize o README do seu repositório para documentar sua abordagem, decisões de design, tecnologias utilizadas e instruções para execução do projeto.
 3. Ao concluir o desafio, envie-nos o link do seu repositório para revisão no email: desenvolvimento@verdesmares.com.br
 
-#### Dicas importantes
+### ⏲️ Prazo
+Não definimos um prazo rígido para a conclusão do teste, pois valorizamos mais a qualidade do trabalho do que a velocidade. No entanto, acreditamos que este desafio pode ser concluído em cerca de 48 horas de trabalho. Caso não consiga, não tem problema. Envie o teste com o checklist das tarefas concluídas.
+Estamos ansiosos para ver sua solução e esperamos que você aproveite este desafio para demonstrar seu talento e paixão pelo desenvolvimento frontend. Boa sorte!
 
+
+### 💡 Dicas
 - Construímos alguns requisitos necessários para o seu desenvolvimento. 
 - Você também deverá seguir o nosso protótipo através desse [[ LINK FIGMA]]
 - Você pode gerar seu próprio tokens para consumir a NewsAPI, mas se quiser usar a nossa, segue ela: 29eae89ffe6d4d589c9c8f24f7ebab73
 - Leia atentamente a documentação antes de implementar, você encontrará mais informações aqui: https://newsapi.org/docs 
-
-### ⏲️ Prazo
-
-Não definimos um prazo rígido para a conclusão do teste, pois valorizamos mais a qualidade do trabalho do que a velocidade. No entanto, acreditamos que este desafio pode ser concluído em cerca de 48 horas de trabalho. Caso não consiga, não tem problema. Envie o teste com o checklist das tarefas concluídas.
-Estamos ansiosos para ver sua solução e esperamos que você aproveite este desafio para demonstrar seu talento e paixão pelo desenvolvimento frontend. Boa sorte!
 
 ## Requisitos
 ### Requisitos Funcinais
