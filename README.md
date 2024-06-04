@@ -47,7 +47,6 @@ Estamos ansiosos para ver sua solução e esperamos que você aproveite este des
 - [ ] Deve ser possível salvar um `id` da notíca lida;
       
 ### Regras de negócio
-- [ ] O usuário não deve poder se cadastrar com um e-mail duplicado;
 - [ ] O usuário não pode ler mais que 2 vezes a mesma notícia;
 - [ ] O usuário não pode ler uma notícia com o JavaScript desabilitado;
 - [ ] O usuário não pode ler uma notícia em modo anônimo;
@@ -64,4 +63,27 @@ Estamos ansiosos para ver sua solução e esperamos que você aproveite este des
 - [ ] O usuário com JavaScript desabilitado no Browser deverá ser direcionado para page-block;
 - [ ] O usuário em aba anônimo no Browser deverá ser direcionado para page-block;
 - [ ] O usuário com mais de 10 leituras diferentes deverá ser direcionado para page-block;
+
+# Critérios para avaliação
+## O que nós esperamos do seu teste
+- Ver na solução a utilização de um framework da sua escolha, mas por aqui já utilizamos o VanillaJS, ReactJS, VueJS e LitJS. 
+- Utilize o framework da melhor forma possível (metodologia/estrutura).
+- Tambér ver a utilização de `dependency managers`. Tais como: `npm`, `yarn` e `pnpm`
+- Utilização de um `bundler JavaScript`. Tais como: webpack, parceljs e vitejs
+- HTML escrito da maneira semântica possível (HTML5/5.1)
+- Mobile first e layout responsivo
+- Stylesheets: utilize as melhoers práticas com CSS3/CSS4. Exeplique sua decisão por metodologia/estrutura/frameworks. Apenas não use `SASS`. ;)
+
+## O que nós não gostaríamos
+- Descobrir que não foi você quem fez seu teste;
+- Ver commits grandes, sem muita explicação nas mensagens em seu repositório;
+- Encontrar um um commit com as dependências de NPM;
+
+## O que avaliaremos de seu teste
+- Histórico de commits do git
+- As instruções de como rodar o projeto
+- Organização, semântica, estrutura, legibilidade, manutenibilidade do seu código
+- Alcance dos objetivos propostos
+- Adaptação do layout responsivo
+- Componentização e extensibilidade dos componentes Javascript
 
