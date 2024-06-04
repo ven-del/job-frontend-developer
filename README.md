@@ -9,7 +9,7 @@ Queremos que todos os nossos candidatos sintam-se valorizados e encorajados a da
 Fazemos isso com a esperança de que os iniciantes compreendam o tipo de profissional que buscamos em nosso time. Se você está se candidatando para uma vaga inicial, não se preocupe, apenas dê o seu melhor.
 
 ## Objetivo
-Desenvolver uma aplicação de notícias que exiba as últimas notícias sobre technology em ordem de publicação, da mais recente para a mais antiga e leitura do artigo. Além disso, a aplicação deve incluir um sistema de busca para que os usuários encontrar o artigo baseado no title e author do seu interesse. 
+Desenvolver uma aplicação de notícias que exiba as últimas notícias sobre `technology` em ordem de publicação, da mais recente para a mais antiga e leitura do artigo. Além disso, a aplicação deve incluir um sistema de busca para que os usuários encontrar o artigo baseado no title e author do seu interesse. 
 
 ## O desafio
 Você irá construir a nossa próxima aplicação de listagem e busca de notícias usando a API do NewsAPI. É uma aplicação simples, onde iremos listar as últimas notícias publicadas e buscar por um determinado título ou author para termos acesso a leitura desejada.
@@ -22,13 +22,13 @@ Por fim, deveremos ter um campo de busca no centro da tela, que ao ser acionado 
 
 ### Instruções
 1. Crie um fork deste repositório e desenvolva sua solução nele.
-2. Utilize o README do seu repositório para documentar sua abordagem, decisões de design, tecnologias utilizadas e instruções para execução do projeto.
+2. Utilize o README do seu repositório para documentar sua abordagem, decisões, tecnologias utilizadas e instruções para execução do projeto.
 3. Ao concluir o desafio, envie-nos o link do seu repositório para revisão no email: desenvolvimento@verdesmares.com.br
+4. No e-mail, descreva o assunto dessa forma: Frontend developer - {your-name} 
 
 ### ⏲️ Prazo
 Não definimos um prazo rígido para a conclusão do teste, pois valorizamos mais a qualidade do trabalho do que a velocidade. No entanto, acreditamos que este desafio pode ser concluído em cerca de 48 horas de trabalho. Caso não consiga, não tem problema. Envie o teste com o checklist das tarefas que você conseguiu finalizar. 
 Estamos ansiosos para ver sua solução e esperamos que você aproveite este desafio para demonstrar seu talento e paixão pelo desenvolvimento frontend. Boa sorte!
-
 
 ### 💡 Dicas
 - Construímos alguns requisitos necessários para o seu desenvolvimento. 
@@ -39,12 +39,12 @@ Estamos ansiosos para ver sua solução e esperamos que você aproveite este des
 ## Requisitos
 ### Requisitos Funcinais
 - [ ] Deve ser possível listar as notícias mais recentes em ordem cronológica;
-- [ ] Deve ser possível listar as notícias com title, description, author, image, category e source;
-- [ ] Deve ser possível acessar a notícia pelo slug;
-- [ ] Deve ser possível o usuário buscar notícias desejada pelo título;
-- [ ] Deve ser possível o usuário buscar notícia por autor;
+- [ ] Deve ser possível listar as notícias com `thumbnail`, `heading`, `description`, `author`, `image`, `category` e `source`;
+- [ ] Deve ser possível acessar a notícia pelo `slug`;
+- [ ] Deve ser possível o usuário buscar notícias desejada pelo `heading`;
+- [ ] Deve ser possível o usuário buscar notícia por `author`;
 - [ ] Deve ser possível o usuário ler uma notícia;
-- [ ] Deve ser necessário salvar a notíca lida
+- [ ] Deve ser possível salvar um `id` da notíca lida;
       
 ### Regras de negócio
 - [ ] O usuário não deve poder se cadastrar com um e-mail duplicado;
@@ -56,7 +56,9 @@ Estamos ansiosos para ver sua solução e esperamos que você aproveite este des
 - [ ] O usuário deverá ser redirecionado para página principal quando tentar acessar a página de categoria;
       
 ### Requisitos não-funcionais
-- [ ] O id da notícia lida precisam estar persistidos em localStorage;
+- [ ] Dynamic Routes: o `slug` da notícida deve ser: `/[category]/[heading]-[id]`
+- [ ] O `id` da notícia lida precisam estar persistidos em `localStorage`;
+- [ ] O `id` da notícia persistida em `localStorage`, deve ser retornado quando passado o nome da chave `articles_read`;
 - [ ] A lista de notícias deve estar paginadas com 20 itens por página;
 - [ ] A lista de notícias deve exibir as últimas notícias em ordem cronológica;
 - [ ] O usuário com JavaScript desabilitado no Browser deverá ser direcionado para page-block;
