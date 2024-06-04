@@ -26,7 +26,7 @@ Por fim, deveremos ter um campo de busca no centro da tela, que ao ser acionado 
 3. Ao concluir o desafio, envie-nos o link do seu repositório para revisão no email: desenvolvimento@verdesmares.com.br
 
 ### ⏲️ Prazo
-Não definimos um prazo rígido para a conclusão do teste, pois valorizamos mais a qualidade do trabalho do que a velocidade. No entanto, acreditamos que este desafio pode ser concluído em cerca de 48 horas de trabalho. Caso não consiga, não tem problema. Envie o teste com o checklist das tarefas concluídas.
+Não definimos um prazo rígido para a conclusão do teste, pois valorizamos mais a qualidade do trabalho do que a velocidade. No entanto, acreditamos que este desafio pode ser concluído em cerca de 48 horas de trabalho. Caso não consiga, não tem problema. Envie o teste com o checklist das tarefas que você conseguiu finalizar. 
 Estamos ansiosos para ver sua solução e esperamos que você aproveite este desafio para demonstrar seu talento e paixão pelo desenvolvimento frontend. Boa sorte!
 
 
