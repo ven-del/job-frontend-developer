@@ -1,6 +1,6 @@
-# Sistema Verdes Mares: teste prático para Frontend develop
+# Sistema Verdes Mares: teste prático para Frontend developer
 
-Olá e bem-vindo ao desafio de Frontend para o desenvolvimento do nosso novo produto de notícias! Neste teste, você terá a oportunidade de demonstrar suas habilidades e criatividade na construção de uma aplicação web que proporcionará uma experiência de leitura de notícias fluida e envolvente.
+Olá e bem-vindo ao desafio de Frontend para o desenvolvimento do nosso novo produto de notícias! Neste teste, você terá a oportunidade de demonstrar suas habilidades e criatividade na construção de uma aplicação web que proporcionará uma experiência de leitura de notícias.
 
 ### Objetivo
 Desenvolver uma aplicação de notícias que exiba as últimas notícias sobre technology em ordem de publicação, da mais recente para a mais antiga e leitura do artigo. Além disso, a aplicação deve incluir um sistema de busca para que os usuários encontrar o artigo baseado no title e author do seu interesse. 
