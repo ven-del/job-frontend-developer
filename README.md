@@ -8,13 +8,17 @@ Queremos que todos os nossos candidatos sintam-se valorizados e encorajados a da
 
 Fazemos isso com a esperança de que os iniciantes compreendam o tipo de profissional que buscamos em nosso time. Se você está se candidatando para uma vaga inicial, não se preocupe, apenas dê o seu melhor.
 
-### Objetivo
+## Objetivo
 Desenvolver uma aplicação de notícias que exiba as últimas notícias sobre technology em ordem de publicação, da mais recente para a mais antiga e leitura do artigo. Além disso, a aplicação deve incluir um sistema de busca para que os usuários encontrar o artigo baseado no title e author do seu interesse. 
 
-### O desafio
+## O desafio
 Você irá construir a nossa próxima aplicação de listagem e busca de notícias usando a API do NewsAPI. É uma aplicação simples, onde iremos listar as últimas notícias publicadas e buscar por um determinado título ou author para termos acesso a leitura desejada.
-Nossa idea da interface é listar as últimas 20 notícias publicadas e ordenadas por data da publicação, onde deverá exibir da mais recente para mais antiga. Além da listagem das notícias, gostaríamos de mostrar algumas informações sobre a elas, como o image, título, categoria, author e data da publicação. Esses dados você conseguirá extrair da API do NewsAPI.
-Além da listagem, devemos ter um campo de busca no centro da tela, que ao ser acionado com o título do artigo ou author, retornaremos uma listagem com algums notícias relacionadas ao termo da busca. 
+
+Nossa idea da interface é listar as últimas 20 notícias publicadas e ordenadas por data da publicação, onde deverá exibir da mais recente para mais antiga. Além da listagem das notícias, gostaríamos de mostrar algumas informações sobre a elas, como o `thumbnail`, `heading`, `category`, `author` e `publishedAt`. Esses dados você conseguirá extrair da API do NewsAPI. 
+
+Já no mode da leitura do artigo, teremos algumas regras de negócio para controle da visualização do conteúdo, consulte os [requisitos](#requisitos) para mais informações. 
+
+Por fim, deveremos ter um campo de busca no centro da tela, que ao ser acionado com o título do artigo ou author, retornaremos uma listagem com algums notícias relacionadas ao termo da busca. 
 
 ### Instruções
 1. Crie um fork deste repositório e desenvolva sua solução nele.
