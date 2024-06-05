@@ -1,5 +1,7 @@
 # Sistema Verdes Mares: teste prático para Frontend developer
 
+![Desktop](desktop.jpg)
+
 Olá e bem-vindo ao desafio de para vaga de Frontend developer. Neste teste, você terá a oportunidade de demonstrar suas habilidades e criatividade na construção de uma aplicação web que proporcionará uma experiência de leitura de notícias.
 
 No Sistema Verdes Mares, cada candidato é um protagonista em potencial, independentemente do seu ponto de partida. Aplicamos o mesmo teste para todas as vagas, desde as mais iniciantes até as mais avançadas. Não se trata apenas de avaliar habilidades técnicas, mas sim de reconhecer o seu comprometimento, paixão e vontade de evoluir.
@@ -71,7 +73,6 @@ Estamos ansiosos para ver sua solução e esperamos que você aproveite este des
 - Tambér ver a utilização de `dependency managers`. Tais como: `npm`, `yarn` e `pnpm`
 - Utilização de um `bundler JavaScript`. Tais como: webpack, parceljs e vitejs
 - HTML escrito da maneira semântica possível (HTML5/5.1)
-- Mobile first e layout responsivo
 - Stylesheets: utilize as melhoers práticas com CSS3/CSS4. Exeplique sua decisão por metodologia/estrutura/frameworks. Apenas não use `SASS`. ;)
 
 ## O que nós não gostaríamos
@@ -84,6 +85,5 @@ Estamos ansiosos para ver sua solução e esperamos que você aproveite este des
 - As instruções de como rodar o projeto
 - Organização, semântica, estrutura, legibilidade, manutenibilidade do seu código
 - Alcance dos objetivos propostos
-- Adaptação do layout responsivo
 - Componentização e extensibilidade dos componentes Javascript
 
