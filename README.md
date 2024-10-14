@@ -1,4 +1,4 @@
-# Sistema Verdes Mares: frontend coding test
+# Sistema Verdes Mares: Frontend Coding Test
 
 ![Desktop](desktop.jpg)
 
