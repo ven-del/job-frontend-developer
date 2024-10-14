@@ -12,7 +12,7 @@ Queremos que todos os nossos candidatos sintam-se valorizados e encorajados a da
 Fazemos isso com a esperança de que os iniciantes compreendam o tipo de profissional que buscamos em nosso time. Se você está se candidatando para uma vaga inicial, não se preocupe, apenas dê o seu melhor.
 
 ## Objetivo
-Desenvolver uma aplicação de notícias que exiba as últimas notícias sobre `technology` em ordem de publicação, da mais recente para a mais antiga e leitura do artigo. Além disso, a aplicação deve incluir um sistema de busca para que os usuários encontrar o artigo baseado no title e author do seu interesse. 
+Desenvolver uma aplicação frontend que exiba as últimas notícias sobre tecnologia em `ordem da publicação`. Além disso, deve incluir um `sistema de busca` para que os usuários encontrar o artigo baseado no title e author do seu interesse. 
 
 ## O desafio
 Você irá construir a nossa próxima aplicação de listagem e busca de notícias usando a API do NewsAPI. É uma aplicação simples, onde iremos listar as últimas notícias publicadas e buscar por um determinado título ou author para termos acesso a leitura desejada.
