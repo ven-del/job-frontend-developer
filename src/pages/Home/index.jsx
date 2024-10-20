@@ -6,7 +6,7 @@ function Home (options) {
 
     return (
         <div>
-            <img src="../../assets/logo.svg" alt="" />
+        
         </div>
     )
 }

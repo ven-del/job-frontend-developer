@@ -6,14 +6,19 @@ const HeaderContainer = styled.header`
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-  background-color: #f5f5f5; // Cor de fundo opcional
+  background-color: #f5f5f5; 
 `;
 
-const Logo = styled.img`
-  /* Logo */
-  width: 120px; // Tamanho do logo
-  height: auto;
-  src: '../../assets/logo.svg';
+const Logo = styled.div`
+  width: 306.08px;
+  height: 38.84px;
+  gap: 0px;
+  opacity: 0px;
+
+  background-image: url(${(props) => props.src});
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 `;
 
 export { HeaderContainer, Logo };
