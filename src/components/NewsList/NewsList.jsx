@@ -17,7 +17,7 @@ const NewsList = () => {
   const fetchNews = async () => {
     
     try {
-      const response = await axios.get(`https://newsapi.org/v2/everything?q=bitcoin&apiKey=${API_KEY}`);
+      const response = await axios.get(`https://newsapi.org/v2/everything?q=technology&apiKey=${API_KEY}`);
       
       setArticles(response.data.articles);
       setLastUpdated(0); // Reseta o contador de atualização
